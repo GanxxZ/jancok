@@ -1,0 +1,85 @@
+.jnck li {
+  padding: 20px 0;
+  background-color:#0000FF;
+}
+* {
+  background-color: #364F6B;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+  font-family: Comic Sans MS;
+  text-decoration: none;
+}
+.container h1 {
+  text-align:center;
+}
+.jnck a {
+  color:#000;
+  background: blue;
+  font-size: 18px;
+}
+header ul {
+  text-align: center;
+  line-height: 80px;
+  padding:50px;
+  margin:0;
+}
+header ul li {
+  border: 3px solid;
+  margin:15px;
+  text-decoration: none;
+  list-style:none;
+}
+header ul li a {
+  padding:0;
+  margin:0;
+  color:#fff;
+}
+.medsos {
+  line-height:80px;
+}
+.box {
+  padding:0;
+  margin:0;
+}
+.box .col-4 ul li {
+  padding:15px 15px;
+  margin:20px 0;
+  border: 3px solid;
+  text-align:center;
+  line-height:20px;
+  font-family: Comic Sans MS;
+  list-style: none;
+}
+.col-4 a {
+  color:#fff;
+  padding: 0;
+  margin: 0;
+}
+section h3 {
+  text-align: center;
+  padding:50px;
+  color:#fff;
+}
+section p {
+  color:#fff;
+  text-align: center;
+}
+li {
+  list-style: none;
+}
+header ul li a:hover {
+  background-color: #F2A2EF;
+}
+.tod {
+  padding: 50px;
+}
+.tod li a {
+  background-color: #000;
+  color:#fff;
+  padding-block: 4px
+  line-height: ;
+}
+.tod li a{
+  line-height: 40px;
+}
